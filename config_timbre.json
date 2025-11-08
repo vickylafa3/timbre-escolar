@@ -1,0 +1,152 @@
+{
+  "timbrar_entrada": true,
+  "timbrar_fin_modulo": true,
+  "timbrar_recreo_inicio": true,
+  "timbrar_recreo_fin": true,
+  "timbrar_recreo_largo_inicio": true,
+  "timbrar_recreo_largo_fin": true,
+  "timbrar_fin_turno": true,
+  "duracion_timbre": 5,
+  "ultimo_esp32_ip": "172.16.1.144",
+  "horarios_habilitados": true,
+  "horarios_personalizados_manana": [
+    {
+      "descripcion": "Entrada",
+      "hora": "07:15",
+      "tipo": "entrada"
+    },
+    {
+      "descripcion": "Fin 1\u00b0 m\u00f3dulo",
+      "hora": "07:55",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Fin 2\u00b0 m\u00f3dulo - Recreo",
+      "hora": "08:35",
+      "tipo": "recreo_inicio"
+    },
+    {
+      "descripcion": "Fin recreo",
+      "hora": "08:40",
+      "tipo": "recreo_fin"
+    },
+    {
+      "descripcion": "Fin 3\u00b0 m\u00f3dulo",
+      "hora": "09:20",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Recreo largo",
+      "hora": "10:00",
+      "tipo": "recreo_largo_inicio"
+    },
+    {
+      "descripcion": "Fin recreo largo",
+      "hora": "10:15",
+      "tipo": "recreo_largo_fin"
+    },
+    {
+      "descripcion": "Fin 4\u00b0 m\u00f3dulo",
+      "hora": "10:55",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Fin 5\u00b0 m\u00f3dulo - Recreo",
+      "hora": "11:35",
+      "tipo": "recreo_inicio"
+    },
+    {
+      "descripcion": "Fin recreo",
+      "hora": "11:40",
+      "tipo": "recreo_fin"
+    },
+    {
+      "descripcion": "Fin 6\u00b0 m\u00f3dulo",
+      "hora": "12:20",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Fin turno ma\u00f1ana",
+      "hora": "13:00",
+      "tipo": "fin_turno"
+    }
+  ],
+  "horarios_personalizados_tarde": [
+    {
+      "descripcion": "Entrada turno tarde",
+      "hora": "13:20",
+      "tipo": "entrada"
+    },
+    {
+      "descripcion": "Fin 1\u00b0 m\u00f3dulo",
+      "hora": "14:00",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Fin 2\u00b0 m\u00f3dulo - Recreo",
+      "hora": "14:40",
+      "tipo": "recreo_inicio"
+    },
+    {
+      "descripcion": "Fin recreo",
+      "hora": "14:45",
+      "tipo": "recreo_fin"
+    },
+    {
+      "descripcion": "Fin 3\u00b0 m\u00f3dulo",
+      "hora": "15:25",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Recreo largo",
+      "hora": "16:05",
+      "tipo": "recreo_largo_inicio"
+    },
+    {
+      "descripcion": "Fin recreo largo",
+      "hora": "16:20",
+      "tipo": "recreo_largo_fin"
+    },
+    {
+      "descripcion": "Fin 4\u00b0 m\u00f3dulo",
+      "hora": "17:00",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Fin 5\u00b0 m\u00f3dulo - Recreo",
+      "hora": "17:40",
+      "tipo": "recreo_inicio"
+    },
+    {
+      "descripcion": "Fin recreo",
+      "hora": "17:45",
+      "tipo": "recreo_fin"
+    },
+    {
+      "descripcion": "Fin 6\u00b0 m\u00f3dulo",
+      "hora": "18:25",
+      "tipo": "fin_modulo"
+    },
+    {
+      "descripcion": "Fin turno tarde",
+      "hora": "19:05",
+      "tipo": "fin_turno"
+    }
+  ],
+  "dias_timbre_fin_turno_manana": {
+    "jueves": true,
+    "lunes": false,
+    "martes": true,
+    "miercoles": true,
+    "viernes": true
+  },
+  "dias_timbre_fin_turno_tarde": {
+    "jueves": true,
+    "lunes": true,
+    "martes": false,
+    "miercoles": true,
+    "viernes": true
+  },
+  "modificado_por": "PC",
+  "ultima_modificacion": "2025-11-08T16:51:03.950514"
+}
